@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+    background-color: rgb(48, 114, 114);
+}
+header {
+	background-color: rgba(10, 51, 84, 0.699);
+	padding: 1rem;
+}
+main {
+	background-color: rgba(250, 143, 171, 0.752);
+	padding: 1rem;
+}
+
+h1 {
+	margin: 10px;
+    font-size: 2vw;
+}
+.button {
+    margin: 10px;
+}
+.framed {
+	border: 5px solid black;
+	margin: 1rem;
+	padding: 1rem;
+}
+
+.columns {
+	display: flex;
+	flex-direction: row;
+}
+
+.box {
+	width: 1rem;
+	height: 1rem;
+	border: 2px solid brown;
+}
+
+.lod {
+	display:flex ;
+	border: 1px;
+	gap: 0.2em;¨
+}
+footer {
+	background-color: rgba(10, 51, 84, 0.699);
+	padding: 1rem;
+}
